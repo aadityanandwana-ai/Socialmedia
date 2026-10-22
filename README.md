@@ -1,2 +1,2 @@
 # Socialmedia
-Data analysis and machine learning on how social media use affects students' sleep, stress, mental health and GPA. Python pipeline with 11 charts, an HTML report and a Random Forest classifier (97% accuracy) on a 4,500-student dataset.
+Analysed a 4,500-student dataset to quantify how social media usage affects sleep, stress, mental health and GPA. Cleaned and engineered features in pandas, built 11 visualisations, and trained a class-balanced Random Forest to predict overall impact (97% test accuracy). Found that usage hours, not platform choice, drive outcomes: average GPA fell from 3.72 to 2.80 between low and very high usage.
